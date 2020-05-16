@@ -1,0 +1,20 @@
+fujinon55f18:
+  tag: "fujinon55f18"
+  Maker: "Fuji Photo Film Co."
+  Model: "Fujinon 55mm f/1.8 EBC"
+  FocalLength: 55.0
+  MaxAperture: 1.8
+
+voigtländer35f28:
+  tag: "voigtländer35f28"
+  Maker: "Voigtländer"
+  Model: "Voigtländer Color-Skoparex 35mm f/2.8"
+  FocalLength: 35.0
+  MaxAperture: 2.8
+
+telewestanar135f35:
+  tag: "telewestanar135f35"
+  Maker: "Tele Westanar"
+  Model: "Tele Westanar 135mm f/3.5"
+  FocalLength: 135.0
+  MaxAperture: 3.5
