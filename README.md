@@ -15,7 +15,7 @@ The workflow would then be:
 4. Run script
 5. Re-open darktable
 
-## CLOSE DARKTABLE BEFORE USING THIS ##
+## CLOSE DARKTABLE BEFORE USING THIS SCRIPT ##
 
 ### Exported Images ###
 Upon exporting these informations are not stored in the generated output, since the raw files remain untouched. Adding lens info the output files can be done using tag_output.py If darktable is configured to add tags to the exif data of exported files, the script will find the tag and add the information to the exif data.
