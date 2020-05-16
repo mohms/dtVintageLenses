@@ -1,5 +1,5 @@
 # Add Manual Vintage Lens Information to the Darktable Database #
-Quickly hacked together for adding vintage manual lens info to the [darktable](https://github.com/darktable-org/darktable)database.
+Quickly hacked together for adding vintage manual lens info to the [darktable](https://github.com/darktable-org/darktable) database.
 
 This can - of course - be solved by just using tags, however I wanted to have these lenses and their infos in the "collect image" feature in darktable. This method uses tags for telling the script which image needs which lens info added.
 
@@ -17,7 +17,10 @@ The workflow would then be:
 
 *No changes* are written to the RAW files, everything happens just in darktables database. Database entries for all other files remain unchanged.
 
-Exported images lack lens info, currently working on a script using embedded tags in the exported image to add the proper lens info after exporting.
+Tested on Linux with darktable v3.0.2
 
-## CLOSE DARKTABLE BEFORE USING THIS SCRIPT ##
+**You still might want to back up the `library.db` file**
+
+### WIP ###
+Exported images lack lens info, currently working on a script using embedded tags in the exported image to add the proper lens info after exporting.
 
